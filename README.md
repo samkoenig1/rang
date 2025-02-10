@@ -1,5 +1,5 @@
 
-# Attendance Experiment
+# Attendance OLS Regression
 **Context** - The following code demonstrates hypothesis testing for an intervention on attendance for school partners. The purpose of this code is to:
 
  1. Take the two files shared ("sample_attendance" and "sample_attendance_historical") and clean the data
