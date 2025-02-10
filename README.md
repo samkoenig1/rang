@@ -1,6 +1,6 @@
 
-# Rang Attendance Experiment
-**Context** - The following code would demonstrate how I would approach hypothesis testing for an intervention on attendance for Rang partners. The purpose of this code is to:
+# Attendance Experiment
+**Context** - The following code demonstrates hypothesis testing for an intervention on attendance for school partners. The purpose of this code is to:
 
  1. Take the two files shared ("sample_attendance" and "sample_attendance_historical") and clean the data
  2. Group students into treatments based on whether they are in the control or the treatment group for each experiment
